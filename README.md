@@ -22,7 +22,7 @@
 
 请扫码添加获取专属体验的账号密码
 
-<div class="half"><img src="https://dev.rainchapter.com/md/ecs/image1.jpeg" width="150"><img src="https://dev.rainchapter.com/md/ecs/image.jpeg" width="150"></div>
+<div class="half"><img src="https://dev.rainchapter.com/md/ecs/image1.jpeg" width="150"></div>
 
 
 管理后台部分页面截图
