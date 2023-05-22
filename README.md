@@ -22,7 +22,7 @@
 
 请扫码添加获取专属体验的账号密码
 
-<div class="half"><img src="https://dev.rainchapter.com/md/ecs/image.jpeg" width="150"><img src="https://dev.rainchapter.com/md/ecs/image1.jpeg" width="150"></div>
+<div class="half"><img src="https://dev.rainchapter.com/md/ecs/image1.jpeg" width="150"><img src="https://dev.rainchapter.com/md/ecs/image.jpeg" width="150"></div>
 
 
 管理后台部分页面截图
@@ -42,10 +42,10 @@
 小程序部分页面截图
 
 <div class="half">
-    <img src="https://dev.rainchapter.com/md/ecs/IMG_1DC623A87F90-1.jpeg" width="25%"><img src="https://dev.rainchapter.com/md/ecs/IMG_12E61D9B9155-1.jpeg" width="25%"><img src="https://dev.rainchapter.com/md/ecs/IMG_99ED65A3B8E6-1.jpeg" width="25%">
+    <img src="https://dev.rainchapter.com/md/ecs/IMG_1DC623A87F90-1.jpeg" width="25%"><img src="https://dev.rainchapter.com/md/ecs/IMG_12E61D9B9155-1.jpeg" width="25%"><img src="https://dev.rainchapter.com/md/ecs/IMG_201642A4B498-1.jpeg" width="25%"><img src="https://dev.rainchapter.com/md/ecs/IMG_99ED65A3B8E6-1.jpeg" width="25%">
 </div>
 <div class="half">
-    <img src="https://dev.rainchapter.com/md/ecs/IMG_8C3255FFD748-1.jpeg" width="25%"><img src="https://dev.rainchapter.com/md/ecs/IMG_010844C5E214-1.jpeg" width="25%"><img src="https://dev.rainchapter.com/md/ecs/IMG_18CFFCC1574D-1.jpeg" width="25%"><img src="https://dev.rainchapter.com/md/ecs/IMG_4F0B39D1E011-1.jpeg" width="25%">
+    <img src="https://dev.rainchapter.com/md/ecs/IMG_010844C5E214-1.jpeg" width="25%"><img src="https://dev.rainchapter.com/md/ecs/IMG_18CFFCC1574D-1.jpeg" width="25%"><img src="https://dev.rainchapter.com/md/ecs/IMG_4F0B39D1E011-1.jpeg" width="25%">
 </div>
 <div class="half">
     <img src="https://dev.rainchapter.com/md/ecs/IMG_CAB9791E1A25-1.jpeg" width="25%">
