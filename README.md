@@ -20,10 +20,11 @@
 
 后台管理系统：[https://dev.rainchapter.com/ecs/dashboard/index.html](https://dev.rainchapter.com/ecs/dashboard/index.html)（免费体验）
 
-请扫码添加获取专属体验的账号密码
+请扫码获取专属体验的账号密码
 
 <div class="half"><img src="https://dev.rainchapter.com/md/ecs/image1.jpeg" width="150"></div>
 
+或加微信：13229937425
 
 管理后台部分页面截图
 
